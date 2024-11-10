@@ -1,0 +1,22 @@
+{
+  "8B936F9A-B5AF-4040-8F75-1FE4B709A701" : {
+    "objectMetadataList" : [
+      [
+        "8B936F9A-B5AF-4040-8F75-1FE4B709A701",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "8B936F9A-B5AF-4040-8F75-1FE4B709A701",
+        "StereoMaterial"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  }
+}
