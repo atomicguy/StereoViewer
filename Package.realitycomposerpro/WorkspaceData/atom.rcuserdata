@@ -4,15 +4,41 @@
     "StereoViewerScene.usda"
   ],
   "recentIdentifiers" : {
+    "67294071-6F81-489B-BAFF-E002451E9621" : [
+
+    ],
     "8B936F9A-B5AF-4040-8F75-1FE4B709A701" : [
 
     ]
   },
   "sceneCameraHistory" : {
-
+    "67294071-6F81-489B-BAFF-E002451E9621" : [
+      {
+        "date" : 752969034.476703,
+        "title" : "Untitled",
+        "transform" : [
+          1,
+          0,
+          -0,
+          0,
+          -0,
+          0.7071069,
+          -0.7071067,
+          0,
+          0,
+          0.7071067,
+          0.7071069,
+          0,
+          -1.1920929e-07,
+          0.12658381,
+          0.12658381,
+          1
+        ]
+      }
+    ]
   },
   "sceneViewportBackgroundColors" : {
 
   },
-  "selectedSceneRelativePath" : "Scene.usda"
+  "selectedSceneRelativePath" : "StereoViewerScene.usda"
 }
